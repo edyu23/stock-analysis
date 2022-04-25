@@ -12,7 +12,7 @@ Analysis of Stocks
  ![this is an image](https://github.com/edyu23/stock-analysis/blob/bfc5e30725619779155e4bfe09f4c40395531255/VBA_Challenge_2018.png)
  
 ## Summary
-  This is my first foray into refactoring but I can see some advantages and disadvantages to it. An advantage in refactoring is that much of the code has been given to you so we just have to visualize the rest and make sure it is executable. There is also a downside to refactoring code that was given in that it can cause confusion because we are picking up code that has been somewhat written. We potentially need to reformat along with figuring out what code to add.
+  This is my first foray into refactoring but I can see some advantages and disadvantages to it. An advantage in refactoring is that much of the code has been given to you so we just have to visualize the rest and make sure it is executable. Also, we also get a chance to optimize the code so that we potentially don't need to write so much code to achieve the same goal. There is also a downside to refactoring code that was given in that it can cause confusion because we are picking up code that has been somewhat written. We potentially need to reformat along with figuring out what code to add.
   
   Advantages of the original script are that we get to write the code from beginning to end so the style comes out the way we want it to so long as the code is executable. An obvious disadvantage is that it could take longer to write the whole code.
   
