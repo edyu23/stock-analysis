@@ -13,5 +13,6 @@ Analysis of Stocks
  
 ## Summary
   This is my first foray into refactoring but I can see some advantages and disadvantages to it. An advantage in refactoring is that much of the code has been given to you so we just have to visualize the rest and make sure it is executable. There is also a downside to refactoring code that was given in that it can cause confusion because we are picking up code that has been somewhat written. We potentially need to reformat along with figuring out what code to add.
+  
   Advantages of the original script are that we get to write the code from beginning to end so the style comes out the way we want it to so long as the code is executable. An obvious disadvantage is that it could take longer to write the whole code.
   
